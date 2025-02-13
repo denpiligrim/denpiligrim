@@ -7,4 +7,3 @@
 ```bash
 echo "Hello World"
 ```
-```bash
