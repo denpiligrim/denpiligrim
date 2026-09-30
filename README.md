@@ -4,7 +4,7 @@
 
 [![3DP-MANAGER](https://img.shields.io/badge/3DP-MANAGER-%23121011.svg?logo=github&logoColor=white)](https://github.com/denpiligrim/3dp-manager) I am the creator of the 3DP-MANAGER utility
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOv2tFFYDY4mXOM60PVz8zw)](https://www.youtube.com/@denpiligrim) I am the author of the DenPiligrim IT channel on YouTube
+[![YouTube](https://img.shields.io/badge/DenPiligrim-11k-red?style=flat&logo=youtube)](https://www.youtube.com/@denpiligrim) I am the author of the DenPiligrim IT channel on YouTube
 
 ```bash
 echo "Hello World"
